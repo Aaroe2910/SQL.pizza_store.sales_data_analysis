@@ -14,7 +14,7 @@ This SQL project focuses on a database schema specifically designed to manage an
 - size: The size of the pizza (e.g., small, medium, large).
 - price: The cost of the pizza.
 
-3. orders:
+3. sorted_orders:
 - order_id: A unique identifier for each order placed.
 - date: The date on which the order was placed.
 - time: The time at which the order was placed.
